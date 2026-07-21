@@ -1,1 +1,1 @@
-Modelado en Tia Portal del control de un sistema de Liofilización en una planta, usando un PLC y un sistema SCADA
+Modeling in TIA Portal of the control of a lyophilization system in a plant, using a PLC and a SCADA system.
